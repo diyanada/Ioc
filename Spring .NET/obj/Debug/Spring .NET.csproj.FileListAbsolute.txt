@@ -1,0 +1,12 @@
+C:\Project\C-Sharp\Assignment\Backup\Spring .NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Assignment\Spring .NET\bin\Debug\Spring .NET.exe.config
+C:\Project\C-Sharp\Assignment\Spring .NET\bin\Debug\Spring .NET.exe
+C:\Project\C-Sharp\Assignment\Spring .NET\bin\Debug\Spring .NET.pdb
+C:\Project\C-Sharp\Assignment\Spring .NET\bin\Debug\Core.dll
+C:\Project\C-Sharp\Assignment\Spring .NET\bin\Debug\Spring.Core.dll
+C:\Project\C-Sharp\Assignment\Spring .NET\bin\Debug\Core.pdb
+C:\Project\C-Sharp\Assignment\Spring .NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Assignment\Spring .NET\obj\Debug\Spring .NET.exe
+C:\Project\C-Sharp\Assignment\Spring .NET\obj\Debug\Spring .NET.pdb
+C:\Project\C-Sharp\Assignment\Spring .NET\bin\Debug\Common.Logging.dll
+C:\Project\C-Sharp\Assignment\Spring .NET\bin\Debug\Common.Logging.Core.dll

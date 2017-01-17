@@ -1,0 +1,9 @@
+C:\Project\C-Sharp\Assignment\Backup\MS Unity\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Assignment\MS Unity\bin\Debug\MS Unity.exe
+C:\Project\C-Sharp\Assignment\MS Unity\bin\Debug\MS Unity.pdb
+C:\Project\C-Sharp\Assignment\MS Unity\bin\Debug\Core.dll
+C:\Project\C-Sharp\Assignment\MS Unity\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Project\C-Sharp\Assignment\MS Unity\bin\Debug\Core.pdb
+C:\Project\C-Sharp\Assignment\MS Unity\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Assignment\MS Unity\obj\Debug\MS Unity.exe
+C:\Project\C-Sharp\Assignment\MS Unity\obj\Debug\MS Unity.pdb

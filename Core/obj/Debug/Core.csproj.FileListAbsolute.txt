@@ -1,0 +1,5 @@
+C:\Project\C-Sharp\Assignment\Backup\Core\bin\Debug\Core.dll
+C:\Project\C-Sharp\Assignment\Backup\Core\bin\Debug\Core.pdb
+C:\Project\C-Sharp\Assignment\Backup\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Assignment\Backup\Core\obj\Debug\Core.dll
+C:\Project\C-Sharp\Assignment\Backup\Core\obj\Debug\Core.pdb

@@ -1,0 +1,10 @@
+C:\Project\C-Sharp\Assignment\Backup\Castle Windsor\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Assignment\Castle Windsor\bin\Debug\Castle Windsor.exe
+C:\Project\C-Sharp\Assignment\Castle Windsor\bin\Debug\Castle Windsor.pdb
+C:\Project\C-Sharp\Assignment\Castle Windsor\bin\Debug\Castle.Core.dll
+C:\Project\C-Sharp\Assignment\Castle Windsor\bin\Debug\Castle.Windsor.dll
+C:\Project\C-Sharp\Assignment\Castle Windsor\bin\Debug\Core.dll
+C:\Project\C-Sharp\Assignment\Castle Windsor\bin\Debug\Core.pdb
+C:\Project\C-Sharp\Assignment\Castle Windsor\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Assignment\Castle Windsor\obj\Debug\Castle Windsor.exe
+C:\Project\C-Sharp\Assignment\Castle Windsor\obj\Debug\Castle Windsor.pdb

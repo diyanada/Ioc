@@ -1,0 +1,9 @@
+C:\Project\C-Sharp\Assignment\Backup\StructureMap\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Assignment\StructureMap\bin\Debug\StructureMap.exe
+C:\Project\C-Sharp\Assignment\StructureMap\bin\Debug\StructureMap.pdb
+C:\Project\C-Sharp\Assignment\StructureMap\bin\Debug\Core.dll
+C:\Project\C-Sharp\Assignment\StructureMap\bin\Debug\StructureMap.dll
+C:\Project\C-Sharp\Assignment\StructureMap\bin\Debug\Core.pdb
+C:\Project\C-Sharp\Assignment\StructureMap\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\C-Sharp\Assignment\StructureMap\obj\Debug\StructureMap.exe
+C:\Project\C-Sharp\Assignment\StructureMap\obj\Debug\StructureMap.pdb
